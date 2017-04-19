@@ -13,7 +13,8 @@
     "localtunnel": "lt --port 3000 --subdomain idkjs",
     "share": "npm-run-all --parallel open:src localtunnel",
     "test": "mocha --reporter progress buildScripts/testSetup.js \"src/**/*.test.js\"",
-    "test:watch": "npm run test -- --watch"
+    "test:watch": "npm run test -- --watch",
+    "generate-mock-data": "babel-node buildScripts/generateMockData"
   },
   "repository": {
     "type": "git",
@@ -50,6 +51,7 @@
     "eslint-plugin-import": "2.2.0",
     "eslint-watch": "3.1.0",
     "express": "4.15.2",
+    "json-schema-faker": "0.5.0-rc1",
     "json-server": "0.9.6",
     "localtunnel": "^1.8.2",
     "mocha": "3.2.0",
