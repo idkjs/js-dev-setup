@@ -1,5 +1,10 @@
 <component name="libraryTable">
   <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/buildScripts/generateMockData.js" />
+      </sourceFilesUrls>
+    </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/dist/webpacp.config.dev.js" />
       <root url="file://$PROJECT_DIR$/dist/webpacp.config.dev.js" />
@@ -9,6 +14,7 @@
       <root url="file://$PROJECT_DIR$/dist/buildScripts/startMessage.js" />
       <root url="file://$PROJECT_DIR$/dist/buildScripts/testSetup.js" />
       <root url="file://$PROJECT_DIR$/dist/webpack.config.dev.js" />
+      <root url="file://$PROJECT_DIR$/dist/buildScripts/generateMockData.js" />
     </CLASSES>
     <SOURCES />
   </library>
