@@ -3,8 +3,11 @@
     <properties>
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/dist/src/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/buildScripts/build.js" />
+        <item url="file://$PROJECT_DIR$/dist/buildScripts/distServer.js" />
         <item url="file://$PROJECT_DIR$/dist/buildScripts/generateMockData.js" />
         <item url="file://$PROJECT_DIR$/dist/buildScripts/mockDataSchema.js" />
+        <item url="file://$PROJECT_DIR$/dist/webpack.config.prod.js" />
         <item url="file://$PROJECT_DIR$/dist/src/api/baseUrl.js" />
         <item url="file://$PROJECT_DIR$/dist/src/api/userApi.js" />
       </sourceFilesUrls>
@@ -18,8 +21,11 @@
       <root url="file://$PROJECT_DIR$/dist/buildScripts/testSetup.js" />
       <root url="file://$PROJECT_DIR$/dist/webpack.config.dev.js" />
       <root url="file://$PROJECT_DIR$/dist/src/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/buildScripts/build.js" />
+      <root url="file://$PROJECT_DIR$/dist/buildScripts/distServer.js" />
       <root url="file://$PROJECT_DIR$/dist/buildScripts/generateMockData.js" />
       <root url="file://$PROJECT_DIR$/dist/buildScripts/mockDataSchema.js" />
+      <root url="file://$PROJECT_DIR$/dist/webpack.config.prod.js" />
       <root url="file://$PROJECT_DIR$/dist/src/api/baseUrl.js" />
       <root url="file://$PROJECT_DIR$/dist/src/api/userApi.js" />
     </CLASSES>

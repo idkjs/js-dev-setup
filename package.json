@@ -16,7 +16,7 @@
     "test:watch": "npm run test -- --watch",
     "generate-mock-data": "babel-node buildScripts/generateMockData",
     "prestart-mockapi":"npm run generate-mock-data",
-    "start-mockapi": "json-server --watch src/api/db.json --port 3001"
+    "start-mockapi": "json-server   --watch src/api/db.json --port 3001"
   },
   "repository": {
     "type": "git",
@@ -64,6 +64,7 @@
     "webpack": "2.4.1",
     "webpack-dev-middleware": "1.10.1",
     "webpack-hot-middleware": "2.18.0",
-    "webpack-md5-hash": "0.0.5"
+    "webpack-md5-hash": "0.0.5",
+    "compression": "latest"
   }
 }
