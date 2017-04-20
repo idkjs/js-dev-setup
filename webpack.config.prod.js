@@ -60,7 +60,7 @@ export default {
       inject: true,
       // Properties you define here are available in index.html
       // using htmlWebpackPlugin.options.varName
-      trackJSToken: 'INSERT YOUR TOKEN HERE'
+      trackJSToken: 'f54a8468e15941bebfbc75d68c5fbe39'
     }),
 
     // Minify JS

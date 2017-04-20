@@ -2,7 +2,9 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/dist/dist/main.4e2470c877ae8be52db1.js" />
+        <item url="file://$PROJECT_DIR$/dist/dist/main.0fbae13b0a1dbefea5b8.js" />
+        <item url="file://$PROJECT_DIR$/dist/dist/main.0fbae13b0a1dbefea5b8.js" />
+        <item url="file://$PROJECT_DIR$/dist/dist/vendor.b82a72e00cc5d4b81ab8.js" />
         <item url="file://$PROJECT_DIR$/dist/dist/vendor.b82a72e00cc5d4b81ab8.js" />
         <item url="file://$PROJECT_DIR$/dist/buildScripts/build.js" />
         <item url="file://$PROJECT_DIR$/dist/webpack.config.prod.js" />
@@ -16,13 +18,11 @@
       <root url="file://$PROJECT_DIR$/dist/buildScripts/startMessage.js" />
       <root url="file://$PROJECT_DIR$/dist/buildScripts/testSetup.js" />
       <root url="file://$PROJECT_DIR$/dist/webpack.config.dev.js" />
-      <root url="file://$PROJECT_DIR$/dist/src/index.js" />
       <root url="file://$PROJECT_DIR$/dist/buildScripts/distServer.js" />
       <root url="file://$PROJECT_DIR$/dist/buildScripts/generateMockData.js" />
       <root url="file://$PROJECT_DIR$/dist/buildScripts/mockDataSchema.js" />
       <root url="file://$PROJECT_DIR$/dist/src/api/baseUrl.js" />
       <root url="file://$PROJECT_DIR$/dist/src/api/userApi.js" />
-      <root url="file://$PROJECT_DIR$/dist/src/index.js" />
       <root url="file://$PROJECT_DIR$/dist/buildScripts/distServer.js" />
       <root url="file://$PROJECT_DIR$/dist/buildScripts/generateMockData.js" />
       <root url="file://$PROJECT_DIR$/dist/buildScripts/mockDataSchema.js" />
@@ -37,7 +37,15 @@
       <root url="file://$PROJECT_DIR$/dist/dist/vendor.d41d8cd98f00b204e980.js" />
       <root url="file://$PROJECT_DIR$/dist/dist/main.eb86c181c0b4a0155f37.js" />
       <root url="file://$PROJECT_DIR$/dist/src/vendor.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/index.js" />
       <root url="file://$PROJECT_DIR$/dist/dist/main.4e2470c877ae8be52db1.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/main.4e2470c877ae8be52db1.js" />
+      <root url="file://$PROJECT_DIR$/dist/buildScripts/build.js" />
+      <root url="file://$PROJECT_DIR$/dist/webpack.config.prod.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/main.0fbae13b0a1dbefea5b8.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/main.0fbae13b0a1dbefea5b8.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/vendor.b82a72e00cc5d4b81ab8.js" />
       <root url="file://$PROJECT_DIR$/dist/dist/vendor.b82a72e00cc5d4b81ab8.js" />
       <root url="file://$PROJECT_DIR$/dist/buildScripts/build.js" />
       <root url="file://$PROJECT_DIR$/dist/webpack.config.prod.js" />

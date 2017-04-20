@@ -1,6 +1,7 @@
 /**
  * Created by devworx on 4/17/17.
  */
+import './index.css'
 import {getUsers, deleteUser} from './api/userApi'
 
 // Populate table of users via API call.
