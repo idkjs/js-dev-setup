@@ -2,19 +2,26 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/src/index.js" />
         <item url="file://$PROJECT_DIR$/dist/buildScripts/generateMockData.js" />
+        <item url="file://$PROJECT_DIR$/dist/buildScripts/mockDataSchema.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/api/baseUrl.js" />
+        <item url="file://$PROJECT_DIR$/dist/src/api/userApi.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/dist/webpacp.config.dev.js" />
       <root url="file://$PROJECT_DIR$/dist/webpacp.config.dev.js" />
-      <root url="file://$PROJECT_DIR$/dist/src/index.js" />
       <root url="file://$PROJECT_DIR$/dist/buildScripts/srcServer.js" />
       <root url="file://$PROJECT_DIR$/dist/src/index.test.js" />
       <root url="file://$PROJECT_DIR$/dist/buildScripts/startMessage.js" />
       <root url="file://$PROJECT_DIR$/dist/buildScripts/testSetup.js" />
       <root url="file://$PROJECT_DIR$/dist/webpack.config.dev.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/index.js" />
       <root url="file://$PROJECT_DIR$/dist/buildScripts/generateMockData.js" />
+      <root url="file://$PROJECT_DIR$/dist/buildScripts/mockDataSchema.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/api/baseUrl.js" />
+      <root url="file://$PROJECT_DIR$/dist/src/api/userApi.js" />
     </CLASSES>
     <SOURCES />
   </library>
