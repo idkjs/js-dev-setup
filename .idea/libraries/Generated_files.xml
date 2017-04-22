@@ -2,8 +2,9 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/dist/dist/main.003650e39727e8224389.js" />
+        <item url="file://$PROJECT_DIR$/dist/buildScripts/generateMockData.js" />
         <item url="file://$PROJECT_DIR$/dist/dist/vendor.b82a72e00cc5d4b81ab8.js" />
+        <item url="file://$PROJECT_DIR$/dist/dist/main.003650e39727e8224389.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
@@ -14,9 +15,7 @@
       <root url="file://$PROJECT_DIR$/dist/buildScripts/startMessage.js" />
       <root url="file://$PROJECT_DIR$/dist/buildScripts/testSetup.js" />
       <root url="file://$PROJECT_DIR$/dist/webpack.config.dev.js" />
-      <root url="file://$PROJECT_DIR$/dist/buildScripts/generateMockData.js" />
       <root url="file://$PROJECT_DIR$/dist/buildScripts/mockDataSchema.js" />
-      <root url="file://$PROJECT_DIR$/dist/buildScripts/generateMockData.js" />
       <root url="file://$PROJECT_DIR$/dist/buildScripts/mockDataSchema.js" />
       <root url="file://$PROJECT_DIR$/dist/src/bundle.js" />
       <root url="file://$PROJECT_DIR$/dist/dist/bundle.js" />
@@ -39,8 +38,9 @@
       <root url="file://$PROJECT_DIR$/dist/dist/main.0fbae13b0a1dbefea5b8.js" />
       <root url="file://$PROJECT_DIR$/dist/src/api/baseUrl.js" />
       <root url="file://$PROJECT_DIR$/dist/buildScripts/distServer.js" />
-      <root url="file://$PROJECT_DIR$/dist/dist/main.003650e39727e8224389.js" />
+      <root url="file://$PROJECT_DIR$/dist/buildScripts/generateMockData.js" />
       <root url="file://$PROJECT_DIR$/dist/dist/vendor.b82a72e00cc5d4b81ab8.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/main.003650e39727e8224389.js" />
     </CLASSES>
     <SOURCES />
   </library>

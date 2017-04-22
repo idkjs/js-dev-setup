@@ -12,26 +12,21 @@ import fs from 'fs';
 import chalk from 'chalk';
 
 /* Call JSON.stringify on results of jsf (json schema faker) */
-const json = JSON.stringify(jsf(schema));
-// console.log(json);
-fs.writeFile("./src/api/db.json", json, function (err) {
-  if (err) {
-    return console.log(chalk.red(err));
-  } else {
-    console.log(chalk.green("Mock data generated."));
-  }
-});
-//
-// const jsf = require('json-schema-faker');
-// const mockDataSchema = require('./mockDataSchema');
-// const fs = require('fs');
-//
-// const json = JSON.stringify(jsf(mockDataSchema));
-//
+// const json = JSON.stringify(jsf(schema));
+// // console.log(json);
 // fs.writeFile("./src/api/db.json", json, function (err) {
 //   if (err) {
-//     return console.log(err);
+//     return console.log(chalk.red(err));
 //   } else {
-//     console.log("Mock data generated.");
+//     console.log(chalk.green("Mock data generated."));
 //   }
 // });
+jsf(schema).then(function (json) {
+  fs.writeFile("./src/api/db.json", JSON.stringify(json), function (err) {
+    if (err) {
+      return console.log(chalk.red(err));
+    } else {
+      console.log(chalk.green("Mock data generated."));
+    }
+  });
+});
